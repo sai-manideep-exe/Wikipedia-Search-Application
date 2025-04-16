@@ -22,9 +22,9 @@ A sleek and simple app that fetches and displays Wikipedia search results in rea
 - JavaScript (Vanilla JS)
 - Wikipedia REST API
 
-## 📸 Demo
+## 🌐 Live Site  
+👉 [Click here to explore the app](https://manideepwikip.ccbp.tech/)
 
-![Demo](https://manideepwikip.ccbp.tech/) 
 
 ## 📁 How to Use
 
