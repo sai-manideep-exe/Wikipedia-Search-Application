@@ -1,4 +1,4 @@
-# Wikipedia-Search-Application
+
 # 🔍 Wikipedia Search App
 
 A sleek and simple app that fetches and displays Wikipedia search results in real-time using the Wikipedia API. Built with **HTML**, **CSS**, and **JavaScript**.
